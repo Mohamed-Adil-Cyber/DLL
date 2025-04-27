@@ -1,0 +1,2 @@
+A simple test of messageboxa.
+can be tested with C:\Windows\System32\rundll32.exe testDLL.dll,TestOptions
